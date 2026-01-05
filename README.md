@@ -1,1 +1,1 @@
-creating the first ci/cd project
+created the first ci/cd project
